@@ -1,0 +1,13 @@
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.exe
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.deps.json
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.json
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.dev.json
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.dll
+C:\Users\manir\source\repos\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.pdb
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csprojAssemblyReference.cache
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfoInputs.cache
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfo.cs
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.dll
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.pdb
+C:\Users\manir\source\repos\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.genruntimeconfig.cache
